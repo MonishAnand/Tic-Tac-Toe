@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a1f8a8-ccec-4c56-a986-7bae9cee5635" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
+    <list default="true" id="30a1f8a8-ccec-4c56-a986-7bae9cee5635" name="Changes" comment="tictactoe framwork done till button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680672740679</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tictactoe framwork done till button">
+      <created>1680676708947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680676708947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="tictactoe framwork done till button" />
+    <option name="LAST_COMMIT_MESSAGE" value="tictactoe framwork done till button" />
   </component>
 </project>
