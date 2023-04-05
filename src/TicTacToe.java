@@ -41,6 +41,8 @@ public class TicTacToe implements ActionListener {
         title.add(text);
         f.add(title,BorderLayout.NORTH);
         f.add(button);
+
+        firstturn();
     }
 
     @Override
@@ -48,7 +50,20 @@ public class TicTacToe implements ActionListener {
 
     }
     public void firstturn(){
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
 
+        if (r.nextInt(2)==0){
+            p1_turn=true;
+            text.setText("X turn");
+        }
+        else {
+            p1_turn=false;
+            text.setText("O turn");
+        }
     }
     public void check(){
 
