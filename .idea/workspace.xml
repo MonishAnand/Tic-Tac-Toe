@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a1f8a8-ccec-4c56-a986-7bae9cee5635" name="Changes" comment="first tic tac toe appears and then x or o turn shows">
+    <list default="true" id="30a1f8a8-ccec-4c56-a986-7bae9cee5635" name="Changes" comment="now we can place x and o simultaneously but not winning strick is coded">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680681840643</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="now we can place x and o simultaneously but not winning strick is coded">
+      <created>1680685671280</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680685671280</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +104,7 @@
     <MESSAGE value="tictactoe framwork done till button" />
     <MESSAGE value="buttons added and 3*3 grid obtained" />
     <MESSAGE value="first tic tac toe appears and then x or o turn shows" />
-    <option name="LAST_COMMIT_MESSAGE" value="first tic tac toe appears and then x or o turn shows" />
+    <MESSAGE value="now we can place x and o simultaneously but not winning strick is coded" />
+    <option name="LAST_COMMIT_MESSAGE" value="now we can place x and o simultaneously but not winning strick is coded" />
   </component>
 </project>
